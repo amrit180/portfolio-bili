@@ -15,9 +15,7 @@
   text-align: center;
   font-size: 14;
 }
-body {
-  height: 10000px;
-}
+
 .navabar {
   height: 100vh;
   width: 300px;
@@ -152,7 +150,7 @@ body {
 }
 .carousel-caption {
   position: absolute;
-  top: 40vh;
+  top: 48vh;
   text-align: left;
 }
 .buttonpp {
@@ -683,7 +681,7 @@ body {
   .carousel-caption {
     display: block;
     position: absolute;
-    top: 10vh;
+    top: 25vh;
     text-align: left;
   }
   .h5name {
@@ -691,6 +689,6 @@ body {
   }
   .carousel-indicators {
     position: absolute;
-    height: 30vh;
+    height: 10vh;
   }
 }
